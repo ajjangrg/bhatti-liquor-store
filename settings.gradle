@@ -1,0 +1,2 @@
+include ':app', ':liquorstore'
+rootProject.name='Bhatti Liquor Store'
